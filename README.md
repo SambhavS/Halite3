@@ -1,5 +1,5 @@
 # Halite3
-Here's the Python code for my Halite 3 Bot. Halite 3 was a programming competition hosted by Two Sigma where bots control turtles that fight to collect the maximum amount of Halite. 
+Here's the Python code for my Halite 3 bot. Halite 3 was a programming competition hosted by Two Sigma where bots control turtles that fight to collect the maximum amount of halite, the game currency. 
 
 
 I ranked #655 out of ~4000 entrants, putting me narrowly in the top sixth. I also think I got the highest score of the (not that many) Berkeley undergrads who competed this year.
