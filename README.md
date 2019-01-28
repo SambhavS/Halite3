@@ -1,5 +1,8 @@
 # Halite3
-Here's the Python code for my Halite 3 Bot. Halite 3 was a programming competition hosted by Two Sigma where bots control turtles that fight to collect the maximum amount of Halite. I ranked #655 out of ~4000 entrants, putting me narrowly in the top sixth. I also think I got the highest score of the (not that many) Berkeley undergrads who competed this year.
+Here's the Python code for my Halite 3 Bot. Halite 3 was a programming competition hosted by Two Sigma where bots control turtles that fight to collect the maximum amount of Halite. 
+
+
+I ranked #655 out of ~4000 entrants, putting me narrowly in the top sixth. I also think I got the highest score of the (not that many) Berkeley undergrads who competed this year.
 
 ## Strategic Summary
 My whole program was about 150 lines and followed a fairly simple greedy heurestic-based strategy.
@@ -18,6 +21,8 @@ Here are some ideas that influenced my design:
 
 6) Once the game was coming to the end, I crashed all my turtles into the center to eke out whatever remaining halite they were carrying. I triggered this when I had thirty turns left to go.
 
-It was really interesting to write a program based on lots of testing and greedy heuristics as opposed to strictly logical/algorithmic rules (like I'm used to). I was surprised that tuning and tweaking a lot of variables by hand led to pretty big improvements. Having looked at a few of the post-mortem write-ups of the people who did a lot better than me, I think I could have improved a little by having better heurestics and improving a lot by having better pathing that allowed for turtle swapping. This was my first time doing Halite and I thought it was overall a lot of fun and definitely recommend it!
+It was really interesting to write a program based on lots of testing and greedy heuristics as opposed to strictly logical/algorithmic rules (like I'm used to). I was surprised that tuning and tweaking a lot of variables by hand led to pretty big improvements. 
+
+Having looked at a few of the post-mortem write-ups of the people who did a lot better than me, I think I could have improved a little by having better heurestics and improving a lot by having better pathing that allowed for turtle swapping. This was my first time doing Halite and I thought it was overall a lot of fun and definitely recommend it!
 
 
