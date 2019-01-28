@@ -1,7 +1,7 @@
 # Halite 3 Bot (Greedy Heurestic Approach)
 Here's the Python code for my Halite 3 bot, as well as a summary of my strategy. Halite 3 was a programming competition hosted by Two Sigma where bots control turtles that fight to collect the maximum amount of halite, the game currency.
 
-I placed #655 out of just over 4000 entrants, putting me narrowly in the top sixth. Also, I think I got the highest rank of the (not-that-many) Berkeley undergrads who competed this year, but was handily beaten by a statistics PhD student. Here's my profile: https://halite.io/user/?user_id=8525
+I placed #655 out of just over 4000 entrants, putting me narrowly in the top sixth. Also, I think I got the highest rank of the (not-that-many) Berkeley undergrads who competed this year, but was handily beaten by a second-year statistics grad student. Here's my profile: https://halite.io/user/?user_id=8525
 
 ## Strategic Summary
 My whole program was about 150 lines and followed a fairly simple greedy heurestic-based strategy.
